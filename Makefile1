@@ -1,0 +1,2 @@
+all:
+	gcc main.c message.c generators.c -o app
